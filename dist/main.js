@@ -1,4 +1,4 @@
-// Jquery
+// Method 2 - Jquery
 // $('.navbar a').on('click', function(e) {
 //   if (this.hash != '') {
 //     e.preventDefault();
@@ -14,7 +14,7 @@
 //   }
 // });
 
-// Smooth scroll
+// Mwthod 3 -Smooth scroll
 // const scroll = new SmoothScroll('.navbar a[href*="#"]', {
 //   speed: 800
 // });
